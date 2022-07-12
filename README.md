@@ -92,10 +92,10 @@ Learning Resources
 
 <https://youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb>
 
--DSA by Love Babbar:-
+- DSA by Love Babbar:-
 <https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA>
 
-- Community Classroom DSA (in Java) (Recommended) :- 
+- Community Classroom DSA (in Java) (incomplete) :- 
 
 Follow-<https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ>
 
@@ -122,6 +122,7 @@ Learn Basic DSA like arrays,strings,searching,sorting then start CP.
 
 -CodeVerse (maths): <https://youtube.com/playlist?list=PLN4aKSfpk8TQUiURV1k70At4Tj5oKb92i>
 
+-Errichto : <https://www.youtube.com/playlist?list=PLl0KD3g-oDOEbtmoKT5UWZ-0_JbyLnHPZ>
 
 
 <p align="center">

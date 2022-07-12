@@ -92,6 +92,9 @@ Learning Resources
 
 <https://youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb>
 
+-DSA by Love Babbar:-
+<https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA>
+
 - Community Classroom DSA (in Java) (Recommended) :- 
 
 Follow-<https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ>
